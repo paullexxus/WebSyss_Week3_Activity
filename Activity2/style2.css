@@ -1,0 +1,35 @@
+/* General styles */
+body {
+    background-color: #f8f8f8;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #000;
+    font-family: 'Sans-serif';
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    font-weight: 600;
+}
+
+p {
+    color: #000;
+    font-family: 'Sans-serif';
+    font-size: 18px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 15px;
+}
+
+/* Box styling */
+.content {
+    max-width: 600px;
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+}
